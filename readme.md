@@ -12,3 +12,6 @@ This lesson involved binding key presses to sounds and focused on key and transi
 
 ### Day 2 - CSS + JavaScript Clock
 The lesson for Day 2 was to animate an analog clock rendered in HTML/CSS. It performs the initial positioning of the hands in CSS, but then using JavaScript to update the hand position based on the current time.  Click to see the working [Clock](http://www.pdxchambers.com/livesamples/javascript30/js-clock/)
+
+### Day 3 - Array Cardio Day 1
+The Array Cardio lesson is a bit more technical than previous lessons. It doesn't produce anything pretty, but if you inspect the console it does some pretty cool things with arrays.  Click to see it working [Array Cardio Day 1](http://www.pdxchambers.com/livesamples/javascript30/array-cardio-1/)
